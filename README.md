@@ -21,4 +21,4 @@ Prompt with context for lyrics and style for best results, optionally also negat
 * Musixmatch format
 
 ## External links
-* [Suno Reference](https://github.com/stayen/suno-reference
+* [Suno Reference](https://github.com/stayen/suno-reference)
